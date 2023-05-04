@@ -1,0 +1,4 @@
+flutter upgrade
+flutter channel master
+flutter doctor -v
+flutter doctor
